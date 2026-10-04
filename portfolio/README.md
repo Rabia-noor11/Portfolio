@@ -4,6 +4,11 @@ A responsive portfolio landing page built with plain HTML, CSS and JavaScript.
 
 **Live demo:**  https://rabia-noor11.github.io/Portfolio/portfolio/
 
+<img width="960" height="514" alt="screenshotWebsite" src="https://github.com/user-attachments/assets/f93c843d-dd3c-42c1-a4b9-f7c7a690d737" />
+
+
+
+
 ## Framework choice
 I chose plain HTML, CSS and JavaScript instead of a framework to strengthen my fundamentals. The UI is still component-based: each component is a JavaScript function that takes data and returns HTML, so pieces like `ProjectCard` are reused for every project.
 
